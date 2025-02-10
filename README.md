@@ -24,7 +24,10 @@ Safe Models: The results below shows a list of **top 10 aircraft** models that h
 Unsafe Models: The results below shows a list of **top 10 aircraft** models that have highest fatalities and has their aircraft destroyed from the accident. These models appear to be the highest risk
 
 ## Recommendations
-
+I have provided 3 recommendations to offer the business stakeholders.
+- The focus should be to purchase aircraft models that have a history of zero fatalities and minimal damage and incidents such as `Airbus Industrie/A320`, etc. 
+- Maintain proper weather monitoring to mitigate operational hazards.
+- Provide proper training to the pilots to alert them on things that can affect various phase of flight and cause accidents therefore, preventing such occurences. 
 ## Conclusions
 
 ### Next Steps

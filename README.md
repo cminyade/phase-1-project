@@ -4,7 +4,7 @@
 
 Here is a snappy readme file for this project you're going to love !
 
-**Author**: [Cindy Minyade](cindygahai@gmail.com)
+**Author**: [Cindy Minyade](https://github.com/cminyade/phase-1-project.git)
 
 # Overview
 This project analyzes the data set attached in the zip folder. It invloves data cleaning, imputation, analysis and visualization to provide valuable insights for a business stakeholder to expand their business.
@@ -13,7 +13,8 @@ This project analyzes the data set attached in the zip folder. It invloves data 
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
 ## Data
-The [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) is from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters. 
+The [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) is from the National Transportation Safety Board. 
+The data includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters. 
 
 ## Methods
 This project aims to analyze the data, deal with missing values, data aggregation and visualization so as to help the organization make data driven decisions through the recommendations that we will provide.
@@ -25,7 +26,7 @@ Unsafe Models: The results below shows a list of **top 10 aircraft** models that
 
 ## Recommendations
 I have provided 3 recommendations to offer the business stakeholders.
-- The focus should be to purchase aircraft models that have a history of zero fatalities and minimal damage and incidents such as `Airbus Industrie/A320`, etc. 
+- The focus should be to purchase aircraft models that have a history of zero fatalities and minimal damage and incidents such as `Airbus Industrie/A320`, and those shown in the analysis.
 - Maintain proper weather monitoring to mitigate operational hazards.
 - Provide proper training to the pilots to alert them on things that can affect various phase of flight and cause accidents therefore, preventing such occurences. 
 
@@ -38,8 +39,9 @@ _What else could I do in the future to improve this project?_
 
 - I would conduct a deeper analysis on the underlying causes of the accidents.
 - Widen the data analysis factors so that a broader analysis can be done such as incorperating the weather conditions, the phases of the flights, the purpose of the flight, may come to yield a broader scope of the analysis. 
+- Certain external factors such as pilot experience could also be analyzed in better detail.
 
-## Respository Structure
+## Respository Structurere
 
 ```
 

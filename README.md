@@ -28,9 +28,16 @@ I have provided 3 recommendations to offer the business stakeholders.
 - The focus should be to purchase aircraft models that have a history of zero fatalities and minimal damage and incidents such as `Airbus Industrie/A320`, etc. 
 - Maintain proper weather monitoring to mitigate operational hazards.
 - Provide proper training to the pilots to alert them on things that can affect various phase of flight and cause accidents therefore, preventing such occurences. 
+
 ## Conclusions
+- The data may not have potrayed the best results because of the various missing data, which can affect the data analysis.
+- The analysis conducted had the main focus on fatalities, and did not put much consideration into other factors such as the weather conditions and the phases of the flights and maintanance factors. 
 
 ### Next Steps
+_What else could I do in the future to improve this project?_
+
+- I would conduct a deeper analysis on the underlying causes of the accidents.
+- Widen the data analysis factors so that a broader analysis can be done such as incorperating the weather conditions, the phases of the flights, the purpose of the flight, may come to yield a broader scope of the analysis. 
 
 ## Respository Structure
 

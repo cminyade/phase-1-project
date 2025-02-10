@@ -20,6 +20,8 @@ This project aims to analyze the data, deal with missing values, data aggregatio
 It also aims to communicate about the data analysis process for better understanding of the analysis conducted.
 
 ## Results
+Safe Models: The results below shows a list of **top 10 aircraft** models that have at most 1 incident count and 0 fatal injuries. These models appear to be the lowest risk
+Unsafe Models: The results below shows a list of **top 10 aircraft** models that have highest fatalities and has their aircraft destroyed from the accident. These models appear to be the highest risk
 
 ## Recommendations
 

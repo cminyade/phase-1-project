@@ -12,18 +12,18 @@ This project analyzes the data set attached in the zip folder. It invloves data 
 ## Business Problem 
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
-## Data
+# Data
 The [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) is from the National Transportation Safety Board. 
 The data includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
 In my analysis I selected 8 columns that I thought woukd be relevant in this study. They include the following
  - Aircraft Make, Model, Damage, Category, Fatal Injuries, Serious Injuries, Weather Condition and Broad phase of flight. However, in the graphs presented below, my main focus drew to the fatality/seriousness of the injuries as well as the number of incident occurences. 
 
-## Methods
+# Methods
 This project aims to analyze the data, deal with missing values, data aggregation and visualization so as to help the organization make data driven decisions through the recommendations that we will provide.
 It also aims to communicate about the data analysis process for better understanding of the analysis conducted.
 
-## Results
+# Results
 Safe Models: The results below shows a list of **top 10 aircraft** models that have at most 1 incident count and 0 fatal injuries. These models appear to be the lowest risk
 
 ## safe model table

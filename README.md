@@ -22,7 +22,36 @@ It also aims to communicate about the data analysis process for better understan
 
 ## Results
 Safe Models: The results below shows a list of **top 10 aircraft** models that have at most 1 incident count and 0 fatal injuries. These models appear to be the lowest risk
-Unsafe Models: The results below shows a list of **top 10 aircraft** models that have highest fatalities and has their aircraft destroyed from the accident. These models appear to be the highest risk
+
+## safe model table
+| Make                 | Model     | Aircraft.Category   | Aircraft.damage   |   Incident.Count |   Total.Fatal.Injuries |   Total.Serious.Injuries |
+|:---------------------|:----------|:--------------------|:------------------|-----------------:|-----------------------:|-------------------------:|
+| Airbus Industrie     | A320      | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Fairchild/swearingen | SA226TC   | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Gates Lear Jet       | 35A       | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Gates Learjet        | 25        | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Grumman              | AA-1A     | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Gulfstream American  | G-159     | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Gulfstream American  | G-159C    | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Lockheed             | L-1011    | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Mcdonnell Douglas    | DC-10-30F | Airplane            | Minor             |                1 |                      0 |                        0 |
+| Nord Aviation        | 262A-12   | Airplane            | Minor             |                1 |                      0 |                        0 |
+
+Unsafe Models: The results below shows a list of **top 10 aircraft** models that have highest fatalities and has the most number of incidents. These models appear to be the highest risk
+
+## unsafe model table
+| Make         | Model     | Aircraft.Category   | Aircraft.damage   |   Incident.Count |   Total.Fatal.Injuries |   Total.Serious.Injuries |
+|:-------------|:----------|:--------------------|:------------------|-----------------:|-----------------------:|-------------------------:|
+| Boeing       | 747-300   | Airplane            | Destroyed         |                1 |                    228 |                       26 |
+| Cessna       | 172N      | Airplane            | Destroyed         |               22 |                     36 |                        7 |
+| Piper        | PA-28-161 | Airplane            | Destroyed         |               13 |                     34 |                        4 |
+| Piper        | PA-28-140 | Airplane            | Destroyed         |               21 |                     32 |                       20 |
+| Fokker       | 28-4000   | Airplane            | Destroyed         |                1 |                     27 |                        9 |
+| Cessna       | 172       | Airplane            | Destroyed         |               20 |                     22 |                       12 |
+| Cessna       | T210M     | Airplane            | Destroyed         |               10 |                     19 |                        1 |
+| Cessna       | 172M      | Airplane            | Destroyed         |               15 |                     19 |                       10 |
+| Cessna       | 152       | Airplane            | Destroyed         |               26 |                     18 |                        6 |
+| De Havilland | DHC-6-200 | Airplane            | Destroyed         |                2 |                     16 |                       14 |
 
 ## Recommendations
 I have provided 3 recommendations to offer the business stakeholders.

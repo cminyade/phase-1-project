@@ -14,7 +14,10 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
 
 ## Data
 The [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) is from the National Transportation Safety Board. 
-The data includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters. 
+The data includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+
+In my analysis I selected 8 columns that I thought woukd be relevant in this study. They include the following
+ - Aircraft Make, Model, Damage, Category, Fatal Injuries, Serious Injuries, Weather Condition and Broad phase of flight. However, in the graphs presented below, my main focus drew to the fatality/seriousness of the injuries as well as the number of incident occurences. 
 
 ## Methods
 This project aims to analyze the data, deal with missing values, data aggregation and visualization so as to help the organization make data driven decisions through the recommendations that we will provide.
@@ -53,13 +56,13 @@ Unsafe Models: The results below shows a list of **top 10 aircraft** models that
 | Cessna       | 152       | Airplane            | Destroyed         |               26 |                     18 |                        6 |
 | De Havilland | DHC-6-200 | Airplane            | Destroyed         |                2 |                     16 |                       14 |
 
-## Recommendations
+# Recommendations
 I have provided 3 recommendations to offer the business stakeholders.
 - The focus should be to purchase aircraft models that have a history of zero fatalities and minimal damage and incidents such as `Airbus Industrie/A320`, and those shown in the analysis.
 - Maintain proper weather monitoring to mitigate operational hazards.
 - Provide proper training to the pilots to alert them on things that can affect various phase of flight and cause accidents therefore, preventing such occurences. 
 
-## Conclusions
+# Conclusions
 - The data may not have potrayed the best results because of the various missing data, which can affect the data analysis.
 - The analysis conducted had the main focus on fatalities, and did not put much consideration into other factors such as the weather conditions and the phases of the flights and maintanance factors. 
 
@@ -69,11 +72,3 @@ _What else could I do in the future to improve this project?_
 - I would conduct a deeper analysis on the underlying causes of the accidents.
 - Widen the data analysis factors so that a broader analysis can be done such as incorperating the weather conditions, the phases of the flights, the purpose of the flight, may come to yield a broader scope of the analysis. 
 - Certain external factors such as pilot experience could also be analyzed in better detail.
-
-## Respository Structurere
-
-```
-
-
-
-```
